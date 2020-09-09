@@ -1,0 +1,11 @@
+table{
+    width: 800px;
+    height: 800px;
+}
+.color{
+    background-color: black;
+}
+
+#padding{
+    text-align: center;
+}

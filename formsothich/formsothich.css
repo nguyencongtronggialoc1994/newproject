@@ -1,0 +1,23 @@
+
+body{
+    font-family: sans-serif;
+    font-size: 20px;
+}
+#content{
+    width: 500px;
+    background-color: white;
+    border: 10px solid #00ffff;
+}
+#title{
+    background-color: darkorange;
+    width: 500px;
+    font-size: 30px;
+    color: white;
+    text-align: center;
+}
+.title1{
+    color: blue;
+}
+#sothich{
+    color: darkorange;
+}
